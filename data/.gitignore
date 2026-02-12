@@ -1,3 +1,5 @@
 *
 */
 !.gitignore
+!kurdish_websites_all.csv
+!kurdish_websites_verified.csv
